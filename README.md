@@ -23,6 +23,7 @@ This project is a Maven-based test framework for mobile UI automation. It uses:
   - `xcuitest` for iOS
 - Android SDK and emulator/device for Android runs
 - Xcode, Simulator, or real device tooling for iOS runs
+- read SETUP.md 
 
 ## Project Structure
 
